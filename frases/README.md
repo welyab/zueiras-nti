@@ -4,7 +4,7 @@
 
 > *"A Nubank tá roxa de raiva." ([MACIEL, Atmos][atmos])*
 
-> *"Meu plano para o ano que vem é deixar meu GitHub igual a Amazônia: cinza." (MACIEL, Atmos)*
+> *"Meu plano para o ano que vem é deixar meu GitHub igual a Amazônia: cinza." ([MACIEL, Atmos][atmos])*
 
 > *"Eu escolhi minha mãe." (GUIRALDELLI, William)*
 
@@ -19,3 +19,9 @@
 [atmos]: https://github.com/atmosmps
 [fredson]: https://github.com/fredsonrodrigues
 [letox]: https://github.com/werliton
+
+<!-- <img src="imgs/user_java.jpg" alt="Paris" class="center"> -->
+
+<center>
+    <img src='../imgs/user_java.jpg' alt="what image shows">
+</center>
