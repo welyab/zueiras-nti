@@ -4,7 +4,7 @@
 
 > *"A Nubank tá roxa de raiva." ([MACIEL, Atmos][atmos])*
 
-> *"Meu plano para o ano que vem é deixar meu GitHub igual a Amazônia: cinza." (MACIEL, Atmos)*
+> *"Meu plano para o ano que vem é deixar meu GitHub igual a Amazônia: cinza." ([MACIEL, Atmos][atmos])*
 
 > *"Eu escolhi minha mãe." (GUIRALDELLI, William)*
 
@@ -15,6 +15,8 @@
 > *"O PHP tem muitos problemas, mas também muitas soluções." ([RODRIGUES, Fredson][fredson])*
 
 > *"Eu já andei de ônibus mais de vinte vezes." (O RIQUINHO, Thiago)*
+
+> *"Eu quero sentar e chorar um pouquinho." (CHORINHO, Thiago)*
 
 [atmos]: https://github.com/atmosmps
 [fredson]: https://github.com/fredsonrodrigues
