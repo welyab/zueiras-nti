@@ -16,6 +16,8 @@
 
 > *"Eu já andei de ônibus mais de vinte vezes." (O RIQUINHO, Thiago)*
 
+> *"Eu quero sentar e chorar um pouquinho." (CHORINHO, Thiago)*
+
 [atmos]: https://github.com/atmosmps
 [fredson]: https://github.com/fredsonrodrigues
 [letox]: https://github.com/werliton
