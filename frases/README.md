@@ -2,7 +2,11 @@
 
 > *"Eu já peidei muito naquele courinho." (AUGUSTO, Thiago)*
 
+> *"Deixa meu C de mão." - (Cavalcante, Igor)*
+
 > *"A Nubank tá roxa de raiva." ([MACIEL, Atmos][atmos])*
+
+> *"Show de bolas!" - (Augusto, Thiago)*
 
 > *"Meu plano para o ano que vem é deixar meu GitHub igual a Amazônia: cinza." ([MACIEL, Atmos][atmos])*
 
