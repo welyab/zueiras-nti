@@ -22,8 +22,7 @@
 [fredson]: https://github.com/fredsonrodrigues
 [letox]: https://github.com/werliton
 
-<!-- <img src="imgs/user_java.jpg" alt="Paris" class="center"> -->
-
 <center>
-    <img src='../imgs/user_java.jpg' alt="what image shows">
+    <img src='../imgs/user_java.jpg' alt="Vem coisa boa por aí...">
+    <p><i>"Vem coisa boa por aí..."</i></p>
 </center>
