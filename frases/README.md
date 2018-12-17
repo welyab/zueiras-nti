@@ -28,10 +28,13 @@
 
 > *"Quando virei, Tatilon tava cravado." - ([Cavalcanti, Igor][igor])*
 
+> *"Bora Amauri! Mostra teu shape, porra!." - ([OLIVEIRA, Guilherme][guilherme])*
+
 [atmos]: https://github.com/atmosmps
 [fredson]: https://github.com/fredsonrodrigues
 [letox]: https://github.com/werliton
 [igor]: https://github.com/cavalcantigor
+[guilherme]: https://github.com/guilhermeof
 
 <center>
     <img src='../imgs/user_java.jpg' alt="Vem coisa boa por aí...">
