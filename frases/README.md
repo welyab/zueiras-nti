@@ -2,7 +2,7 @@
 
 > *"Eu já peidei muito naquele courinho." (AUGUSTO, Thiago)*
 
-> *"Deixa meu C de mão." - (Cavalcanti, Igor)*
+> *"Deixa meu C de mão." - ([Cavalcanti, Igor][igor])*
 
 > *"A Nubank tá roxa de raiva." ([MACIEL, Atmos][atmos])*
 
@@ -26,12 +26,12 @@
 
 > *"Saaaaaaaiiii Tátiloooon! Saaaaaaaai Táaaatilonnn!" ([MACIEL, Atmos][atmos])*
 
-> *"Quando virei, Tatilon tava cravado." - (Cavalcanti, Igor)*
+> *"Quando virei, Tatilon tava cravado." - ([Cavalcanti, Igor][igor])*
 
 [atmos]: https://github.com/atmosmps
 [fredson]: https://github.com/fredsonrodrigues
 [letox]: https://github.com/werliton
-[cavalcantigor]: https://github.com/cavalcantigor
+[igor]: https://github.com/cavalcantigor
 
 <center>
     <img src='../imgs/user_java.jpg' alt="Vem coisa boa por aí...">
