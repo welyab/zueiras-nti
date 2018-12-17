@@ -22,6 +22,10 @@
 
 > *"Eu quero sentar e chorar um pouquinho." (CHORINHO, Thiago)*
 
+> *"Mais rápido! Mais rápido!" ([RODRIGUES, Fredson][fredson])*
+
+> *"Saaaaaaaiiii Tátiloooon! Saaaaaaaai Táaaatilonnn!" ([MACIEL, Atmos][atmos])*
+
 [atmos]: https://github.com/atmosmps
 [fredson]: https://github.com/fredsonrodrigues
 [letox]: https://github.com/werliton
