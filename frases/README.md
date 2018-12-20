@@ -32,6 +32,8 @@
 
 > *"Arão, Arão, Arão, Arão, Arão, Ê Arão, Arão, Arão, Arão. PORRA!" - (COLINS, Matteus)*
 
+> *"Respinga aqui em mim..." - (AUGUSTO, Thiago)*
+
 [atmos]: https://github.com/atmosmps
 [fredson]: https://github.com/fredsonrodrigues
 [letox]: https://github.com/werliton
