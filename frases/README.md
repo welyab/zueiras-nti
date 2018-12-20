@@ -30,6 +30,8 @@
 
 > *"Bora Amauri! Mostra teu shape, porra!." - ([OLIVEIRA, Guilherme][guilherme])*
 
+> *"Arão, Arão, Arão, Arão, Arão, Ê Arão, Arão, Arão, Arão. PORRA!" - (COLINS, Matteus)*
+
 [atmos]: https://github.com/atmosmps
 [fredson]: https://github.com/fredsonrodrigues
 [letox]: https://github.com/werliton
