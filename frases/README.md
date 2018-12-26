@@ -36,6 +36,8 @@
 
 > *"... eu tentei te dar, mas tu não quis." - (MATTOS, Celso)*
 
+> *"... eu vou é passar minhas férias em bariloche." - (O RIQUINHO, Thiago)*
+
 [atmos]: https://github.com/atmosmps
 [fredson]: https://github.com/fredsonrodrigues
 [letox]: https://github.com/werliton
