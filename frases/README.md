@@ -38,7 +38,7 @@
 
 > *"... eu vou é passar minhas férias em bariloche." - (O RIQUINHO, Thiago)*
 
-> *"Eu vou ser a mulher de Thiago." - ([Cavalcanti, Igor][igor])*
+> *"Eu vou ser a mulher de Thiago." - ([Cavalcanti, Igor][igor], vulgo Steffany)*
 
 > *"Me chama de jumento vai... diz que eu sou um jumento..." - (Sales, Raul)*
 
