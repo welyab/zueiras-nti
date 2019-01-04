@@ -48,6 +48,10 @@
 [igor]: https://github.com/cavalcantigor
 [guilherme]: https://github.com/guilhermeof
 
+### Regras para validação da Frase.
+
+1. Tem que haver pelo menos uma testemunha da vergonha para confirmar a zueira ou o próprio indivíduo tem que confirmar.
+
 <center>
     <img src='../imgs/user_java.jpg' alt="Vem coisa boa por aí...">
     <p><i>"Vem coisa boa por aí..."</i></p>
