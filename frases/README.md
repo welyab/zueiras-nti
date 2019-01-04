@@ -42,6 +42,8 @@
 
 > *"Me chama de jumento vai... diz que eu sou um jumento..." - (Sales, Raul)*
 
+> *"Eu estou malhando na Selfit porque lá tem banheiro masculino..." - (Lima, Bruno)*
+
 [atmos]: https://github.com/atmosmps
 [fredson]: https://github.com/fredsonrodrigues
 [letox]: https://github.com/werliton
