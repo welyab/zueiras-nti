@@ -40,6 +40,8 @@
 
 > *"Eu vou ser a mulher de Thiago." - ([Cavalcanti, Igor][igor])*
 
+> *"Me chama de jumento vai... diz que eu sou um jumento..." - (Sales, Raul)*
+
 [atmos]: https://github.com/atmosmps
 [fredson]: https://github.com/fredsonrodrigues
 [letox]: https://github.com/werliton
