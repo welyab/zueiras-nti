@@ -38,6 +38,8 @@
 
 > *"... eu vou é passar minhas férias em bariloche." - (O RIQUINHO, Thiago)*
 
+> *"Eu vou ser a mulher de Thiago." - ([Cavalcanti, Igor][igor])*
+
 [atmos]: https://github.com/atmosmps
 [fredson]: https://github.com/fredsonrodrigues
 [letox]: https://github.com/werliton
