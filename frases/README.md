@@ -44,6 +44,8 @@
 
 > *"Eu estou malhando na Selfit porque lá tem banheiro masculino..." - (Lima, Bruno)*
 
+> *"Tu quer que eu tire ou vire a casaca..." - (Sales, Raul)*
+
 [atmos]: https://github.com/atmosmps
 [fredson]: https://github.com/fredsonrodrigues
 [letox]: https://github.com/werliton
