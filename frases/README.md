@@ -46,6 +46,8 @@
 
 > *"Tu quer que eu tire ou vire a casaca..." - (Sales, Raul)*
 
+> *"Eu fui em um show dos Mamonas Assassinas" - (AUGUSTO, Thiago)*
+
 [atmos]: https://github.com/atmosmps
 [fredson]: https://github.com/fredsonrodrigues
 [letox]: https://github.com/werliton
