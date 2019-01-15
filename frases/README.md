@@ -48,6 +48,8 @@
 
 > *"Eu fui em um show dos Mamonas Assassinas" - (AUGUSTO, Thiago)*
 
+> *"Werliton... o GRANDE." ([MACIEL, Atmos][atmos])*
+
 [atmos]: https://github.com/atmosmps
 [fredson]: https://github.com/fredsonrodrigues
 [letox]: https://github.com/werliton
