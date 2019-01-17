@@ -56,6 +56,8 @@
 
 > *"Arão, pode colocar aí: vou trocar com Bruno." (TROCADOR, Thiago)*
 
+> *"Ai Celso me disse: Se tu der pra alguém eu vou trocar de novo!" (FARIAS, Arão)*
+
 [atmos]: https://github.com/atmosmps
 [fredson]: https://github.com/fredsonrodrigues
 [letox]: https://github.com/werliton
