@@ -54,6 +54,8 @@
 
 > *"Bota uma coisa maior aí." ([GULOSO, Atmos][atmos])*
 
+> *"Arão, pode colocar aí: vou trocar com Bruno." (TROCADOR, Thiago)*
+
 [atmos]: https://github.com/atmosmps
 [fredson]: https://github.com/fredsonrodrigues
 [letox]: https://github.com/werliton
