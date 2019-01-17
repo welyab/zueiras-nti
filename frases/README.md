@@ -52,6 +52,8 @@
 
 > *".. Essa porra é boa!" (FARIAS, Arão)*
 
+> *"Bota uma coisa maior aí." ([GULOSO, Atmos][atmos])*
+
 [atmos]: https://github.com/atmosmps
 [fredson]: https://github.com/fredsonrodrigues
 [letox]: https://github.com/werliton
