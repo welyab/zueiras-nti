@@ -60,6 +60,8 @@
 
 > *"Ai Celso me disse: Se tu der pra alguém eu vou trocar de novo!" (FARIAS, Arão)*
 
+> *"...vamos lá nós duas." - (A MENINA, Raul)*
+
 [atmos]: https://github.com/atmosmps
 [fredson]: https://github.com/fredsonrodrigues
 [letox]: https://github.com/werliton
