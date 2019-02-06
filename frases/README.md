@@ -64,6 +64,9 @@
 
 > *"...Chupa essa bala halls, Quirino" - (GUIRALDELLI, William)*
 
+
+> *"...Hoje eu vou tomar aqui." - (GULOSO, Raul)*
+
 [atmos]: https://github.com/atmosmps
 [fredson]: https://github.com/fredsonrodrigues
 [letox]: https://github.com/werliton
