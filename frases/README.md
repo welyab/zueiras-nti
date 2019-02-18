@@ -64,8 +64,11 @@
 
 > *"...Chupa essa bala halls, Quirino" - (GUIRALDELLI, William)*
 
-
 > *"...Hoje eu vou tomar aqui." - (GULOSO, Raul)*
+
+> *"...Me dá o saco aqui." - (FARIAS, Arão)*
+
+> *"...Eu bato duas vezes por dia." - (BATEDOR, Arão)*
 
 [atmos]: https://github.com/atmosmps
 [fredson]: https://github.com/fredsonrodrigues
