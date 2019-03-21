@@ -72,7 +72,7 @@
 
 > *"...Coloca tudo lá dentro." - (Guloso, Giovanni)*
 
-> *"...Tem JQuery aí." - (Front Master, Bruno Amil)*
+> *"...Tem JQuery aí?" - (Front Master, Bruno Amil)*
 
 [atmos]: https://github.com/atmosmps
 [fredson]: https://github.com/fredsonrodrigues
