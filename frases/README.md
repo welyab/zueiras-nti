@@ -70,6 +70,8 @@
 
 > *"...Eu bato duas vezes por dia." - (BATEDOR, Arão)*
 
+> *"...Coloca tudo lá dentro." - (Guloso, Giovanni)*
+
 [atmos]: https://github.com/atmosmps
 [fredson]: https://github.com/fredsonrodrigues
 [letox]: https://github.com/werliton
