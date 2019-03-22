@@ -76,6 +76,8 @@
 
 > *"...Come logo essa porra" - (O Afobado, Atmos)*
 
+> *"...Um Tatilon eu já não aguento, imagine dois" - (Coitado, Italo)*
+
 
 [atmos]: https://github.com/atmosmps
 [fredson]: https://github.com/fredsonrodrigues
