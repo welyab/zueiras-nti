@@ -74,6 +74,9 @@
 
 > *"...Tem JQuery aí?" - (Front Master, Bruno Amil)*
 
+> *"...Come logo essa porra" - (O Afobado, Atmos)*
+
+
 [atmos]: https://github.com/atmosmps
 [fredson]: https://github.com/fredsonrodrigues
 [letox]: https://github.com/werliton
