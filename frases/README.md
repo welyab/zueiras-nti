@@ -80,6 +80,8 @@
 
 > *"...Eu tô apanhando demais pro Matlab. Nunca tomei tanto pau na vida." - (Levador de pau, Igor)*
 
+> *"...Eu provo isso, e ainda tenho o comprovante." - (O provador, Ítalo)*
+
 [atmos]: https://github.com/atmosmps
 [fredson]: https://github.com/fredsonrodrigues
 [letox]: https://github.com/werliton
