@@ -78,6 +78,7 @@
 
 > *"...Um Tatilon eu já não aguento, imagine dois" - (Coitado, Italo)*
 
+> *"...Eu tô apanhando demais pro Matlab. Nunca tomei tanto pau na vida." - (Levador de pau, Igor)*
 
 [atmos]: https://github.com/atmosmps
 [fredson]: https://github.com/fredsonrodrigues
