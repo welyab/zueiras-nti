@@ -84,6 +84,8 @@
 
 > *"...Entra aí Werlitoooonn." - (O apressadinho, Igor)*
 
+> *"...Vou só liberar isso aqui pro cara rapidinho." - (O Liberador, Thiago)*
+
 [atmos]: https://github.com/atmosmps
 [fredson]: https://github.com/fredsonrodrigues
 [letox]: https://github.com/werliton
