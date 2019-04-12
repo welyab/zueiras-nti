@@ -82,6 +82,8 @@
 
 > *"...Eu provo isso, e ainda tenho o comprovante." - (O provador, Ítalo)*
 
+> *"...Entra aí Werlitoooonn." - (O apressadinho, Igor)*
+
 [atmos]: https://github.com/atmosmps
 [fredson]: https://github.com/fredsonrodrigues
 [letox]: https://github.com/werliton
