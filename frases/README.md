@@ -86,6 +86,8 @@
 
 > *"...Vou só liberar isso aqui pro cara rapidinho." - (O Liberador, Thiago)*
 
+> *"...Hoje eu tomei um suco de aceRÔLA." - (SUCUZINHO, Atmos)*
+
 [atmos]: https://github.com/atmosmps
 [fredson]: https://github.com/fredsonrodrigues
 [letox]: https://github.com/werliton
