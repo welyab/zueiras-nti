@@ -88,6 +88,10 @@
 
 > *"...Hoje eu tomei um suco de aceRÔLA." - (SUCUZINHO, Atmos)*
 
+> *"...Precisamos definir que vai entrar." - (A fila indiana, Arão)*
+
+> *"...Rapaz... tendo um negócio no meio." - (Safadinho, Thiago)*
+
 [atmos]: https://github.com/atmosmps
 [fredson]: https://github.com/fredsonrodrigues
 [letox]: https://github.com/werliton
