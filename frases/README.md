@@ -92,6 +92,12 @@
 
 > *"...Rapaz... tendo um negócio no meio." - (Safadinho, Thiago)*
 
+> *"...Eu to dando pra geral " - (Safadinho, Atmos)*
+
+> *"...Me usa como três, TH " - (Livre estou, Feed)*
+
+
+
 [atmos]: https://github.com/atmosmps
 [fredson]: https://github.com/fredsonrodrigues
 [letox]: https://github.com/werliton
