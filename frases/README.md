@@ -96,6 +96,8 @@
 
 > *"...Me usa como três, TH " - (Livre estou, Feed)*
 
+>*"...Xota, eu já tenho a minha." - (Trans, Thiago)*
+
 
 
 [atmos]: https://github.com/atmosmps
