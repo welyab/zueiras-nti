@@ -98,6 +98,8 @@
 
 >*"...Xota, eu já tenho a minha." - (Trans, Thiago)*
 
+>*"...Se tu quiser tu pode comer o meu." - (O prestativo, Atmos)*
+
 
 
 [atmos]: https://github.com/atmosmps
