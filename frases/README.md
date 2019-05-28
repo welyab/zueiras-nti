@@ -100,6 +100,8 @@
 
 >*"...Se tu quiser tu pode comer o meu." - (O prestativo, Atmos)*
 
+>*"...Agora vai dá pra segurar até 4h." - (O segurador, Anderson)*
+
 
 
 [atmos]: https://github.com/atmosmps
