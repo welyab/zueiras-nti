@@ -102,6 +102,9 @@
 
 >*"...Agora vai dá pra segurar até 4h." - (O segurador, Anderson)*
 
+>*"...Ei Werliton, tu vai lá por trás hoje?" - (O recruta1, Ramon)*
+
+
 
 
 [atmos]: https://github.com/atmosmps
