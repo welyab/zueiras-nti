@@ -104,7 +104,7 @@
 
 >*"...Ei Werliton, tu vai lá por trás hoje?" - (O recruta1, Ramon)*
 
->*"...Bom de chupar é manga espada". - (O chupador de manga espada, Anderson)*
+>*"...Isso daí é manga espada". - (O chupador de manga espada, Anderson)*
 
 >*"...Humm, vai ficar segurando na cabecinha?" - (CABECINHA, Ramon)*
 
