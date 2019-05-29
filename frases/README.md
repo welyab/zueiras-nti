@@ -106,6 +106,7 @@
 
 >*"...Isso daí é manga espada". - (Anderson, o chupador de manga espada)*
 
+>*"Humm, vai ficar segurando na cabecinha?" - (CABECINHA, Ramon)*
 
 
 
