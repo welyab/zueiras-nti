@@ -104,6 +104,8 @@
 
 >*"...Ei Werliton, tu vai lá por trás hoje?" - (O recruta1, Ramon)*
 
+>*"...Isso daí é manga espada". - (Anderson, o chupador de manga espada)*
+
 
 
 
