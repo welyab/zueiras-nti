@@ -106,7 +106,9 @@
 
 >*"...Bom de chupar é manga espada". - (O chupador de manga espada, Anderson)*
 
->*"Humm, vai ficar segurando na cabecinha?" - (CABECINHA, Ramon)*
+>*"...Humm, vai ficar segurando na cabecinha?" - (CABECINHA, Ramon)*
+
+>*"...Viado não é só quem dá não.." - (RECRUTA, Ramon)*
 
 
 
