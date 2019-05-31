@@ -110,6 +110,8 @@
 
 >*"...Viado não é só quem dá não.." - (RECRUTA, Ramon)*
 
+>*"...Vai Lucas, bota logo! Cabe é dois.." - (GULOSO, Bruno)*
+
 
 
 [atmos]: https://github.com/atmosmps
