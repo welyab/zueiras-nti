@@ -112,6 +112,8 @@
 
 >*"...Vai Lucas, bota logo! Cabe é dois.." - (GULOSO, Bruno)*
 
+>*"...Um macho vinha aí, hein? ... Ramon responde: de boas!.." - (GULOSO, Ramon)*
+
 
 
 [atmos]: https://github.com/atmosmps
