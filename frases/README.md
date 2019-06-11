@@ -114,6 +114,8 @@
 
 >*"...Um macho vinha aí, hein? ... Ramon responde: de boas!.." - (GULOSO, Ramon)*
 
+>*"... Alguém aí tá afim de me dar um milk?" - (GULOSA, Ramon)*
+
 
 
 [atmos]: https://github.com/atmosmps
