@@ -114,7 +114,7 @@
 
 >*"...Um macho vinha aí, hein? ... Ramon responde: de boas!.." - (GULOSO, Ramon)*
 
->*"... Alguém aí tá afim de me dar um milk?" - (GULOSA, Ramon)*
+>*"... Alguém aí tá afim de me dar um milk?" - (GULOSA, Arão)*
 
 
 
