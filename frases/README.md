@@ -118,6 +118,7 @@
 
 >"... Tu lembra Feed, daquela sala que tu até brincou cmg?" - (O Brincante, Lucas)
 
+>"... Ah Jhonny, mas tu não sabe nem comer." (O Insatisfeito, Thiago)
 
 
 [atmos]: https://github.com/atmosmps
