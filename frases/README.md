@@ -116,6 +116,8 @@
 
 >*"... Alguém aí tá afim de me dar um milk?" - (GULOSA, Arão)*
 
+>"... Tu lembra Feed, daquela sala que tu até brincou cmg?" - (O Brincante, Lucas)
+
 
 
 [atmos]: https://github.com/atmosmps
