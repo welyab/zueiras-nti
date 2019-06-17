@@ -120,6 +120,8 @@
 
 >"... Ah Jhonny, mas tu não sabe nem comer." (O Insatisfeito, Thiago)
 
+>"... Eu prefiro ouvir esse barulho do que um monte de gente entrando" (Barulhinho, Thiago)
+
 
 [atmos]: https://github.com/atmosmps
 [fredson]: https://github.com/fredsonrodrigues
