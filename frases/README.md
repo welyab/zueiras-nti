@@ -122,7 +122,9 @@
 
 >"... Eu prefiro ouvir esse barulho do que um monte de gente entrando" (Barulhinho, Thiago)
 
->"... Quando eu olho isso aí só me lembro da mangueira" (Mangueira, Lucas)
+>"... Quando eu olho isso aí só me lembro da mangueira" (Lembrança do que a gente viveu, Lucas)
+
+>"... Aaaaaaaaaai Cláudiooo" (O Sentido, Mateus)
 
 
 [atmos]: https://github.com/atmosmps
