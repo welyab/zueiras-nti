@@ -122,6 +122,8 @@
 
 >"... Eu prefiro ouvir esse barulho do que um monte de gente entrando" (Barulhinho, Thiago)
 
+>"... Quando eu olho isso aí só me lembro da mangueira (a escola de samba)" (Mangueira, Lucas)
+
 
 [atmos]: https://github.com/atmosmps
 [fredson]: https://github.com/fredsonrodrigues
