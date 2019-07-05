@@ -126,6 +126,8 @@
 
 >"... Aaaaaaaaaai Cláudiooo" (O Sentido, Mateus)
 
+>"... Eu tô mastigando o teu negócio" (O Mastigador, Ramon)
+
 
 [atmos]: https://github.com/atmosmps
 [fredson]: https://github.com/fredsonrodrigues
