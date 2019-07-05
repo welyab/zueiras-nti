@@ -126,7 +126,7 @@
 
 >"... Aaaaaaaaaai Cláudiooo" (O Sentido, Mateus)
 
->"... Eu tô mastigando o teu negócio" (O Mastigador, Ramon)
+>"... Eu tô mastigando o teu negócio, Lucas" (O Mastigador, Ramon)
 
 
 [atmos]: https://github.com/atmosmps
