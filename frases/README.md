@@ -128,6 +128,8 @@
 
 >"... Eu tô mastigando o teu negócio, Lucas" (O Mastigador, Ramon)
 
+>"... Quem botar mais, ARROCHA!" (O Guloso, Arão)
+
 
 [atmos]: https://github.com/atmosmps
 [fredson]: https://github.com/fredsonrodrigues
