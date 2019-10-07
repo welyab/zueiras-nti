@@ -130,6 +130,8 @@
 
 >"... Quem botar mais, ARROCHA!" (O Guloso, Arão)
 
+>"Gente, é sério. Cadê a chave do meu carro? Aldrea tá passando mau..." (Rabelo, Dilson)
+
 
 [atmos]: https://github.com/atmosmps
 [fredson]: https://github.com/fredsonrodrigues
