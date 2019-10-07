@@ -132,6 +132,8 @@
 
 >"Gente, é sério. Cadê a chave do meu carro? Aldrea tá passando mau..." (Rabelo, Dilson)
 
+>"Tu me respeita" (Cordeiro, José)
+
 
 [atmos]: https://github.com/atmosmps
 [fredson]: https://github.com/fredsonrodrigues
